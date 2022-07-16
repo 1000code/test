@@ -8,11 +8,6 @@ const App = () => {
       <h1>1000code</h1>
       <h1>1000code</h1>
       <h1>1000code</h1>
-      <h1>1000code</h1>
-      <h1>1000code</h1>
-      <h1>1000code</h1>
-      <h1>1000code</h1>
-      <h1>1000code</h1>
     </div>
   );
 };
